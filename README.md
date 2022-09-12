@@ -14,4 +14,5 @@ There are solutions that need external lib.
     <li><a href="https://github.com/ruliarso/python-playground/tree/main/readwrite-csv">Read, write CSV using Python</a></li>
     <li><a href="https://github.com/ruliarso/python-playground/tree/main/image_slicer">Slice images into tiles using image-slicer</a></li>
     <li><a href="https://github.com/ruliarso/python-playground/blob/main/metabase/metabase_screenshot.py">Taking a screenshot of webpage using pyppeteer</a></li>
+    <li><a href="https://github.com/ruliarso/python-playground/tree/main/alpaca">Access Alpaca API using alpaca-trade-api-python</a></li>
 </ol>
