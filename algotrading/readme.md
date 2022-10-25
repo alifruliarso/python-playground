@@ -1,0 +1,1 @@
+Generating Trade Signals using Moving Average(MA) Crossover Strategy — [A Python implementation](https://towardsdatascience.com/making-a-trade-call-using-simple-moving-average-sma-crossover-strategy-python-implementation-29963326da7a)
